@@ -1,0 +1,30 @@
+baseURL = "https:computerdetektive.ch/"
+languageCode = "de-CH"
+title = "computerdetektive.ch"
+theme = "after-dark"
+pluralizelisttitles = false
+
+
+[menu]
+
+[[menu.main]]
+    identifier = ""
+    name = "Home"
+    title = "mehr_title"
+    url = "/"
+    weight = 100
+
+[[menu.main]]
+    identifier = "kinder"
+    name = "Kinder"
+    title = "kinder"
+    url = "/kinder"
+    weight = 200
+
+[[menu.main]]
+    identifier = "mehr"
+    name = "Mehr"
+    title = "mehr"
+    url = "/mehr"
+    weight = 200
+
