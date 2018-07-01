@@ -1,6 +1,6 @@
 [submodule "themes/after-dark"]
 	path = themes/after-dark
-	url = https://github.com/comfusion/after-dark.git
+	url = git@github.com:hvwaldow/after-dark.git
 [submodule "after-dark"]
 	path = after-dark
 	url = ./themes/after-dark
