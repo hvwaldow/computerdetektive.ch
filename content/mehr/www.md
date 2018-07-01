@@ -22,3 +22,11 @@ ist in dem Fall ausnahmsweise erlaubt!
     Beispiel wenn du etwas kaufst, braucht die Verkäuferin deine
     Adresse, um dir die Einkäufe zu schicken.
 	
+## Browser und Plugins
+
+In Arbeit
+
+
+## Tor
+
+In Arbeit

@@ -10,21 +10,28 @@ pluralizelisttitles = false
 [[menu.main]]
     identifier = ""
     name = "Home"
-    title = "mehr_title"
+    title = "Home"
     url = "/"
     weight = 100
 
 [[menu.main]]
-    identifier = "kinder"
-    name = "Kinder"
-    title = "kinder"
-    url = "/kinder"
+    identifier = "info"
+    name = "Info"
+    title = "Info"
+    url = "/info"
     weight = 200
 
 [[menu.main]]
     identifier = "mehr"
     name = "Mehr"
-    title = "mehr"
+    title = "Mehr"
     url = "/mehr"
+    weight = 200
+
+[[menu.main]]
+    identifier = "ueber_uns"
+    name = "Über"
+    title = "Über"
+    url = "/ueber_uns"
     weight = 200
 

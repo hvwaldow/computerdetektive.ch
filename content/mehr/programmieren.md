@@ -10,7 +10,7 @@ Hier sind ein paar Links, mit denen du schon mal anfangen kannst, programmieren 
 
 ## Anfänger
 
-+ <a href="https://blockly-games.appspot.com/" target="_blank">Blockly
++ <a href="https://blockly-games.appspot.com/?lang=de" target="_blank">Blockly
   Games</a>: Ein Programmierkurs in deutscher Sprache. Lässt sich
   komplett im Browser absolvieren. Die Programmiersprache besteht aus
   Blöcken, die man mit der Maus zusammenfügen kann und ist an <a
