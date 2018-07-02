@@ -140,3 +140,11 @@ article header img {
 .hack h2 {
   font-size: 1.15em;
 }
+
+.frontpicdiv {
+   text-align: center;
+}
+
+.frontpic {
+    width: 768px;
+}

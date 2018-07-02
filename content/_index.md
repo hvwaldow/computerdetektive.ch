@@ -1,10 +1,14 @@
 ---
 title: "C O M P U T E R D E T E K T I V E"
 date: 2018-06-30T22:07:52+02:00
-draft: true
+draft: false
 ---
 
 ## Ein Informatikkurs für Kinder am GZ Zürich-Seebach
+
+<div class="frontpicdiv">
+	<img class="frontpic" src="newfrontpic.png" />
+</div>
 
 <div class="card" style="margin:2em;">
   <header class="card-header" style="text-align:left;padding-left:1em">Ein Kurs mit <a href="./info#philosophie">Spass am Gerät</a></header>

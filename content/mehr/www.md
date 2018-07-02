@@ -1,7 +1,7 @@
 ---
 title: "WWW"
 date: 2018-06-30T22:51:05+02:00
-draft: true
+draft: false
 ---
 
 Das World-Wide-Web (WWW) ist die Menge aller Webseiten, die du mit
