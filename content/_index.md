@@ -32,6 +32,6 @@ draft: false
 
 <div class="alert alert-success">
 	<b>Anmeldung:</b> Bis 30. August 2018 bei <br />
-	<a href="mailto:blackbelly@computerdetektive.ch">Harald von Waldow &lt;blackbelly@computerdetektive.ch&gt;</a></br>
+	<a href="mailto:blackbelly@computerdetektive.ch">Harald von Waldow &lt;blackbelly@computerdetektive.ch&gt;</a> <span style="font-size:small;float:right;">(<a href="pgp.asc">PGP-Key</a>)</span></br>
 	Bitte angeben, ob ihr einen eigenen Laptop mitbringen könnt.
 </div>
