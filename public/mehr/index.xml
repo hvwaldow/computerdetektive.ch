@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M E H R on computerdetektive.ch</title>
+    <link>https:computerdetektive.ch/mehr/</link>
+    <description>Recent content in M E H R on computerdetektive.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-CH</language>
+    <lastBuildDate>Sat, 30 Jun 2018 22:13:33 +0200</lastBuildDate>
+    
+	<atom:link href="https:computerdetektive.ch/mehr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WWW</title>
+      <link>https:computerdetektive.ch/mehr/www/</link>
+      <pubDate>Sat, 30 Jun 2018 22:51:05 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/mehr/www/</guid>
+      <description>&lt;p&gt;Das World-Wide-Web (WWW) ist die Menge aller Webseiten, die du mit
+deinem Browser ansurfen kannst. Das WWW ist nur ein Teil des Internet,
+auch wenn viele Leute &amp;ldquo;Internet&amp;rdquo; sagen, wenn sie nur das WWW meinen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>https:computerdetektive.ch/mehr/programmieren/</link>
+      <pubDate>Sat, 30 Jun 2018 22:13:33 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/mehr/programmieren/</guid>
+      <description>&lt;p&gt;Hier sind ein paar Links, mit denen du schon mal anfangen kannst, programmieren zu lernen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

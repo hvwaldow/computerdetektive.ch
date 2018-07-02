@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C O M P U T E R D E T E K T I V E on computerdetektive.ch</title>
+    <link>https:computerdetektive.ch/</link>
+    <description>Recent content in C O M P U T E R D E T E K T I V E on computerdetektive.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-CH</language>
+    <lastBuildDate>Sat, 30 Jun 2018 22:07:52 +0200</lastBuildDate>
+    
+	<atom:link href="https:computerdetektive.ch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I N F O</title>
+      <link>https:computerdetektive.ch/info/</link>
+      <pubDate>Sun, 01 Jul 2018 14:19:30 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/info/</guid>
+      <description>Voraussetzungen Spass an Rätseln, Knobelaufgaben, logischem Denken, Technik  Nimmst du Spielzeug auseinander, um zu sehen, wie es innen aussieht? Hast du schon einmal etwas repariert? Magst du Rätsel und Detektivgeschichten? Hier kannst du einfache Programme schreiben. Macht das Spass?   Die Kinder sollten einen eigenen Laptop mitbringen.  Vorhandene Programme und Daten auf dem Laptop werden nicht angetastet (siehe Technik). Idealerweise ist der Laptop nicht älter als 6 Jahre.</description>
+    </item>
+    
+    <item>
+      <title>Kinder</title>
+      <link>https:computerdetektive.ch/kinder/</link>
+      <pubDate>Sun, 01 Jul 2018 01:10:12 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/kinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WWW</title>
+      <link>https:computerdetektive.ch/mehr/www/</link>
+      <pubDate>Sat, 30 Jun 2018 22:51:05 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/mehr/www/</guid>
+      <description>&lt;p&gt;Das World-Wide-Web (WWW) ist die Menge aller Webseiten, die du mit
+deinem Browser ansurfen kannst. Das WWW ist nur ein Teil des Internet,
+auch wenn viele Leute &amp;ldquo;Internet&amp;rdquo; sagen, wenn sie nur das WWW meinen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Programmieren</title>
+      <link>https:computerdetektive.ch/mehr/programmieren/</link>
+      <pubDate>Sat, 30 Jun 2018 22:13:33 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/mehr/programmieren/</guid>
+      <description>&lt;p&gt;Hier sind ein paar Links, mit denen du schon mal anfangen kannst, programmieren zu lernen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
