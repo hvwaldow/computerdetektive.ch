@@ -19,7 +19,7 @@ draft: true
 <div class="alert alert-info">
 <b>Die Kinder sollten einen eigenen Laptop mitbringen.</b>
 <ul>
-	<li>Vorhandene Programme und Daten auf dem Laptop werden nicht angetastet (siehe <a href="info#technik">Technik</a>).</li>
+	<li>Vorhandene Programme und Daten auf dem Laptop werden nicht angetastet (siehe <a href="#technik">Technik</a>).</li>
 	<li>Idealerweise ist der Laptop nicht älter als 6 Jahre.</li>
 <li><b>Wenn ihr kein geeignetes Gerät habt, trotzdem anmelden!</b></li>
 </ul>

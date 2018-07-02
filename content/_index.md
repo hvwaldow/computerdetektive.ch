@@ -4,10 +4,10 @@ date: 2018-06-30T22:07:52+02:00
 draft: true
 ---
 
-## **Ein Informatikkurs am GZ Zürich-Seebach**
+## Ein Informatikkurs für Kinder am GZ Zürich-Seebach
 
 <div class="card" style="margin:2em;">
-  <header class="card-header" style="font-size:120%;">Ein Kurs mit <a href="./info#philosophie">Spass am Gerät</a></header>
+  <header class="card-header" style="text-align:left;padding-left:1em">Ein Kurs mit <a href="./info#philosophie">Spass am Gerät</a></header>
   <div class="card-content">
     <div class="inner">
 		<ul>

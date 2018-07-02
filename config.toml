@@ -2,7 +2,9 @@ baseURL = "https:computerdetektive.ch/"
 languageCode = "de-CH"
 title = "computerdetektive.ch"
 theme = "after-dark"
-pluralizelisttitles = false
+
+[params]
+    powered_by = false
 
 
 [menu]
@@ -26,12 +28,12 @@ pluralizelisttitles = false
     name = "Mehr"
     title = "Mehr"
     url = "/mehr"
-    weight = 200
+    weight = 300
 
 [[menu.main]]
     identifier = "ueber_uns"
     name = "Über"
     title = "Über"
     url = "/ueber_uns"
-    weight = 200
+    weight = 400
 
