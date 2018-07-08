@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C O M P U T E R D E T E K T I V E on computerdetektive.ch</title>
-    <link>https:computerdetektive.ch/</link>
-    <description>Recent content in C O M P U T E R D E T E K T I V E on computerdetektive.ch</description>
+    <title>I N F O on computerdetektive.ch</title>
+    <link>https:computerdetektive.ch/info/</link>
+    <description>Recent content in I N F O on computerdetektive.ch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-CH</language>
-    <lastBuildDate>Sat, 30 Jun 2018 22:07:52 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 14:19:30 +0200</lastBuildDate>
     
-	<atom:link href="https:computerdetektive.ch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https:computerdetektive.ch/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -78,48 +78,6 @@ Wie rufe ich ein Programm auf? Wie gucke ich in ein File? Was für
 Arten von Files gibt es und wozu braucht man sie? Wie schreibe ich
 selbst eine File?&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>ÜBER UNS</title>
-      <link>https:computerdetektive.ch/ueber_uns/</link>
-      <pubDate>Sun, 01 Jul 2018 14:19:30 +0200</pubDate>
-      
-      <guid>https:computerdetektive.ch/ueber_uns/</guid>
-      <description>Harald fing vor mehr als 30 Jahren mit einem Commodore C-64 an in BASIC zu programmieren und hat seitdem nicht mehr damit aufgehört, auch wenn heutzutage eher Bash, C, R, Python und Javascript zum Einsatz kommen. In der Zwischenzeit beschäftigte er sich auch mit Umweltnaturwissenschaften und Linux-Systemadministration. Heute berät er hauptberuflich Wissenschaftler im Datenmanagement. Seine pädagogische Erfahrung beschränkt sich bis jetzt auf das Anleiten von Studenten und das, was man als Vater von zwei Kindern (8 und 10 Jahre alt) eben so mitbekommt.</description>
-    </item>
-    
-    <item>
-      <title>Kinder</title>
-      <link>https:computerdetektive.ch/kinder/</link>
-      <pubDate>Sun, 01 Jul 2018 01:10:12 +0200</pubDate>
-      
-      <guid>https:computerdetektive.ch/kinder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WWW</title>
-      <link>https:computerdetektive.ch/mehr/www/</link>
-      <pubDate>Sat, 30 Jun 2018 22:51:05 +0200</pubDate>
-      
-      <guid>https:computerdetektive.ch/mehr/www/</guid>
-      <description>&lt;p&gt;Das World-Wide-Web (WWW) ist die Menge aller Webseiten, die du mit
-deinem Browser ansurfen kannst. Das WWW ist nur ein Teil des Internet,
-auch wenn viele Leute &amp;ldquo;Internet&amp;rdquo; sagen, wenn sie nur das WWW meinen.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Programmieren</title>
-      <link>https:computerdetektive.ch/mehr/programmieren/</link>
-      <pubDate>Sat, 30 Jun 2018 22:13:33 +0200</pubDate>
-      
-      <guid>https:computerdetektive.ch/mehr/programmieren/</guid>
-      <description>&lt;p&gt;Hier sind ein paar Links, mit denen du schon mal anfangen kannst, programmieren zu lernen.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
