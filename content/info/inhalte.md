@@ -1,0 +1,57 @@
+---
+title: "Inhalte"
+date: 2018-07-01T14:19:30+02:00
+weight: 400
+draft: false
+---
+
+<div class="alert alert-warning">
+	Bis jetzt nur eine Art Brainstorming, um die grobe Richtung zu umreissen. Nicht alle Themen werden
+	stattfinden; möglicherweise gibt es Themen, die hier noch nicht erwähnt werden.
+</div>
+
++ **Hardware:** Wir bauen einen Computer auseinander, und gucken, was da
+  so drin ist. Wo gibt es überall Computer und was machen die?
+
++ **Grundlegende Konzepte:** Was ist ein Programm? ein File? ein
+  Directory? Wie finde ich heraus, was auf einem Computer “drauf” ist?
+  Wie rufe ich ein Programm auf? Wie gucke ich in ein File? Was für
+  Arten von Files gibt es und wozu braucht man sie? Wie schreibe ich
+  selbst eine File?
+
+<!--more-->
+
++ **Anwendungsprogramme** werden en passant vorgestellt, wenn sie für
+  einen bestimmten Zweck gebraucht werden. Zum Beispiel ein Editor um
+  Textfiles zu lesen und zu schreiben, oder ein Malprogramm. In
+  Einschüben werden nützliche Programme kurz vorgestellt (Tipptrainer,
+  Vokabeltrainer, einfache Spiele, ...), die dann zu Hause benutzt
+  werden können.
+
++ **Programmieren:** Grundlegende Konzepte werden altersgerecht mit <a
+  href="https://de.wikipedia.org/wiki/Scratch_(Programmiersprache)"
+  target="_blank">Scratch</a> und/oder <a
+  href="https://blockly-games.appspot.com/?lang=de"
+  target="_blank">Blockly</a> erlernt. Das Ziel könnte die
+  Programmierung eines selbst ausgedachten einfachen Spiels sein. Wir
+  schreiben ein Programm, das einen Text verschlüsselt .. und dann
+  knacken wir den Code.
+
++ **Internet:** Sich im Internet sicher zu bewegen hat einen grossen
+  Stellenwert für diesen Kurs. Was sind überhaupt “persönliche Daten”?
+  Warum sollen fremde Leute und Firmen die nicht bekommen? Wie
+  vermeiden wir, dass wir ausspioniert werden? Auf welchen Wegen geben
+  wir aus Versehen persönliche Daten preis? Und welche
+  Vorsichtsmassnahmen sollten wir treffen? Wie finden wir im Web das,
+  was wir suchen? (Google - Tricks, alternative Suchmaschinen) Wie
+  sieht eine Webseite eigentlich wirklich aus? (HTML, CSS, JS). Gibt
+  es in Webseiten verborgene Geheimnisse zu entdecken? Wir verändern
+  heruntergeladene Webseiten. Vielleicht schreiben wir sogar eine
+  eigene.
+
++ **Virtuelle Welten:** Wir treffen uns im im virtuellen Raum (<a
+  href="https://minecraft.net/de-de/what-is-minecraft/"
+  target="_blank">Minecraft</a>) um gemeinsam Abenteuer zu erleben und
+  fremde Welten zu entdecken. Vielleicht lernen wir noch andere
+  Kommunikationsformen im Internet kennen, z.B. Email, Chat, Webforen
+  und Blogs.

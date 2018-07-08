@@ -30,10 +30,10 @@ theme = "after-dark"
     url = "/mehr"
     weight = 300
 
-# [[menu.main]]
-#     identifier = "ueber_uns"
-#     name = "Über"
-#     title = "Über"
-#     url = "/ueber_uns"
-#     weight = 400
+[[menu.main]]
+    identifier = "ueber_uns"
+    name = "Über"
+    title = "Über"
+    url = "/ueber_uns"
+    weight = 400
 

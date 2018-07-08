@@ -11,7 +11,7 @@ draft: false
 </div>
 
 <div class="card" style="margin:2em;">
-  <header class="card-header" style="text-align:left;padding-left:1em">Ein Kurs mit <a href="./info#philosophie">Spass am Gerät</a></header>
+  <header class="card-header" style="text-align:left;padding-left:1em">Ein Kurs mit <a href="./info/philosophie">Spass am Gerät</a></header>
   <div class="card-content">
     <div class="inner">
 		<ul>
@@ -22,16 +22,8 @@ draft: false
 		<li>Anzahl Teilnehmer/innen: max. 10.</li>
 		<li>Kosten: 150 CHF pro Teilnehmer/in. Ca. 50 CHF davon sind für einen
         hochwertigen Memorystick, den die Teilnehmer/innen behalten.</li>
-		<li><a href="info/#voraussetzungen">Voraussetzungen</a></li>
+		<li><a href="info/voraussetzungen-anmeldung">Voraussetzungen und Anmeldung</a></li>
 		</ul>
 	</div>
   </div>
-</div>
-
-<!-- <div>&nbsp;</div> -->
-
-<div class="alert alert-success">
-	<b>Anmeldung:</b> Bis 30. August 2018 bei <br />
-	<a href="mailto:blackbelly@computerdetektive.ch">Harald von Waldow &lt;blackbelly@computerdetektive.ch&gt;</a> <span style="font-size:small;float:right;">(<a href="pgp.asc">PGP-Key</a>)</span></br>
-	Bitte angeben, ob ihr einen eigenen Laptop mitbringen könnt.
 </div>

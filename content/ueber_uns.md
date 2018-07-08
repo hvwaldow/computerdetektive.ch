@@ -1,16 +1,28 @@
 ---
-title: "Ü B E R"
-date: 2018-07-01T20:45:37+02:00
-draft: true
+title: "ÜBER UNS"
+date: 2018-07-01T14:19:30+02:00
+weight: 400
+draft: false
 ---
 
-<div class="media">
-  <div class="media-left">
-    <div class="avatarholder"><img width="100px "src="/haraldpic.jpeg" /></div>
-  </div>
-  <div class="media-body">
-    <div class="media-heading">EGOIST @egoist</div>
-    <div class="media-content">XXLorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga vel, voluptates, doloremque nesciunt illum est corrupti nostrum expedita adipisci dicta vitae? Eveniet maxime quibusdam modi molestias alias et incidunt est.</div>
-  </div>
+<div class="avatarpicdiv">
+	<img class="avatarpic" src="../haraldpic.jpeg" />
 </div>
 
+<div> Harald fing vor mehr als 30 Jahren mit einem Commodore C-64 an
+in BASIC zu programmieren und hat seitdem nicht mehr damit aufgehört,
+auch wenn heutzutage eher Bash, C, R, Python und Javascript zum
+Einsatz kommen. In der Zwischenzeit beschäftigte er sich auch mit
+Umweltnaturwissenschaften und Linux-Systemadministration. Heute berät
+er hauptberuflich Wissenschaftler im Datenmanagement. Seine
+pädagogische Erfahrung beschränkt sich bis jetzt auf das Anleiten von
+Studenten und das, was man als Vater von zwei Kindern (8 und 10 Jahre
+alt) eben so mitbekommt.  <span style="font-size:small;float:right;"><a href="../pgp.asc">PGP-Key</a></span></div>
+
+<p style="clear:both;"></p>
+
+<div class="avatarpicdiv">
+	<img class="avatarpic" src="../platzhalter.jpg" />
+</div>
+
+<div>Ranjan: Bio noch in Arbeit</div>
