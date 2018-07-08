@@ -8,7 +8,7 @@ draft: false
 <div class="alert alert-success">
 <b style=font-size:120%;">Voraussetzungen:</b><br />
 <span style=font-size:120%;">
-Spass an Rätseln, Knobelaufgaben, logischem Denken, Technik.<br />In Schulmathematik eher unter- and überfordert.</span>
+Spass an Rätseln, Knobelaufgaben, logischem Denken, Technik.<br />In Schulmathematik eher unter- als überfordert.</span>
 <ul>
 	<li>Nimmst du Spielzeug auseinander, um zu sehen, wie es innen aussieht?</li>
 	<li>Hast du schon einmal etwas repariert?</li>
