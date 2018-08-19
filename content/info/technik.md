@@ -8,12 +8,16 @@ draft: false
 Alle Teilnehmer bekommen einen bootbaren Memorystick, der das
 Betriebssystem und alle benötigten Programme enthält.
 
+Dank <a href="https://www.labdoo.org/de/content/LabdooCH"><img
+src="/labdoo-site-logo.png"></a> können wir allen Teilehmer/innen einen
+ausgezeichneten Laptop für die Dauer des Kurses leihen!
+
 <!--more-->
 
 So haben alle die gleiche Umgebung (und können sich gegenseitig
-helfen).  Ausserdem werden die Inhalte des (elterlichen) Laptops nicht
-angetastet und die Kinder können jeden Computer mit “ihrer”
-Arbeitsumgebung starten.
+helfen). Die Kinder behalten den Memorystick auch nach Ende des Kurses
+und können damit praktisch jeden Computer mit “ihrer” Arbeitsumgebung
+starten.
 
 Das Konzept ist ähnlich dem des bewährten <a
 href="https://www.imedias.ch/themen/lernstick/index.cfm"

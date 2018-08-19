@@ -10,7 +10,7 @@ draft: false
 	<img class="frontpic" src="newfrontpic.png" />
 </div>
 
-<div class="card" style="margin:2em;">
+<div class="card" style="margin:0em 0em 1em 0em;">
   <header class="card-header" style="text-align:left;padding-left:1em">Ein Kurs mit <a href="./info/philosophie">Spass am Gerät</a></header>
   <div class="card-content">
     <div class="inner">
@@ -19,7 +19,6 @@ draft: false
 		<li>Zeitraum: 13. September - 13. Dezember 2018 (12 Termine).</li>
 		<li>Termin: Donnerstags, 17:15 - 19:00.</li>
 		<li>Ort: <a href="http://www.gz-zh.ch/seebach" target="_blank">GZ-Seebach</a></li>
-		<li>Anzahl Teilnehmer/innen: max. 10.</li>
 		<li>Kosten: 150 CHF pro Teilnehmer/in. Ca. 50 CHF davon sind für einen
         hochwertigen Memorystick, den die Teilnehmer/innen behalten.</li>
 		<li><a href="info/voraussetzungen-anmeldung">Voraussetzungen und Anmeldung</a></li>
@@ -27,3 +26,8 @@ draft: false
 	</div>
   </div>
 </div>
+<span class=" alert alert-info">
+	Gesponsert von <a href="https://www.labdoo.org/de/content/LabdooCH"><img src="labdoo-site-logo.png" /></a>
+</span>
+
+
