@@ -27,7 +27,7 @@ draft: false
   </div>
 </div>
 <span class=" alert alert-info">
-	Gesponsert von <a href="https://www.labdoo.org/de/content/LabdooCH"><img src="labdoo-site-logo.png" /></a>
+	Unterstützt von <a href="https://www.labdoo.org/de/content/LabdooCH"><img src="labdoo-site-logo.png" /></a>
 </span>
 
 
