@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L O G B U C H on computerdetektive.ch</title>
+    <link>https:computerdetektive.ch/posts/</link>
+    <description>Recent content in L O G B U C H on computerdetektive.ch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-CH</language>
+    <lastBuildDate>Sat, 18 Aug 2018 22:13:33 +0200</lastBuildDate>
+    
+	<atom:link href="https:computerdetektive.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eine mysteriöse Begegnung</title>
+      <link>https:computerdetektive.ch/posts/myterioese_begegnung/</link>
+      <pubDate>Fri, 07 Sep 2018 11:57:56 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/posts/myterioese_begegnung/</guid>
+      <description>Nachdem ich bei Frank und Ron die Laptops abgeholt hatte, fuhr ich mit meinem roten Mobility-Auto schnell wieder zurück nach Seebach. Jedenfalls hatte ich das vor.
+Als ich an einer Ampel halten musste,</description>
+    </item>
+    
+    <item>
+      <title>Besuch in Oberwil-Lieli</title>
+      <link>https:computerdetektive.ch/posts/besuch_in_oberwil_lieli/</link>
+      <pubDate>Sun, 19 Aug 2018 21:11:56 +0200</pubDate>
+      
+      <guid>https:computerdetektive.ch/posts/besuch_in_oberwil_lieli/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https:computerdetektive.ch/rechnerparade.jpg&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Computerdetektive brauchen nicht viel Ausrüstung, aber gute. Deshalb
+besuchte ich (Blackbelly) letzte Woche Frank und Ron, die besten Ausrüster
+nördlich und südlich der Alpen.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

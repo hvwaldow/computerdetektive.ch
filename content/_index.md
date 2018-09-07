@@ -25,9 +25,13 @@ draft: false
 		</ul>
 	</div>
   </div>
-</div>
-<span style="color:#00bcd4;">Unterstützt durch</span>
-<a href="https://www.labdoo.org/de/content/LabdooCH"><img style="height:1.5em;margin-bottom:0px;" src="labdoo-header.png" alt="labdoo.org" /></a>
-
-
+  </div>
+<div style="width:100%">
+	<div class="alert alert-info" style="display:inline-block;float:left;padding:10px;">
+		Unterstützt von <a href="https://www.labdoo.org/de/content/LabdooCH"><img src="labdoo-site-logo.png" /></a>
+	</div>
+	<div class="alert alert-error" style="display:inline-block;float:right;padding:2px 10px;">
+		<b>Der Kurs ist leider ausgebucht!</b><br /><span style="font-size:15px;"><a href="mailto:blackbelly@computerdetektive.ch">Schreibe eine Email, um auf die Warteliste zu kommen</a>.</span>
+	</div>
+<div>
 
