@@ -8,8 +8,7 @@ draft: false
 Alle Teilnehmer bekommen einen bootbaren Memorystick, der das
 Betriebssystem und alle benötigten Programme enthält.
 
-Dank <a href="https://www.labdoo.org/de/content/LabdooCH"><img
-src="/labdoo-site-logo.png"></a> können wir allen Teilehmer/innen einen
+Dank <a href="https://www.labdoo.org/de/content/LabdooCH">labdoo.org</a> können wir allen Teilehmer/innen einen
 ausgezeichneten Laptop für die Dauer des Kurses leihen!
 
 <!--more-->

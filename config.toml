@@ -37,3 +37,10 @@ theme = "after-dark"
     url = "/ueber_uns"
     weight = 400
 
+[[menu.main]]
+    identifier = "posts"
+    name = "Logbuch"
+    title = "Logbuch"
+    url = "/posts"
+    weight = 500
+

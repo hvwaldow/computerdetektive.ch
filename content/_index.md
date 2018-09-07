@@ -26,8 +26,8 @@ draft: false
 	</div>
   </div>
 </div>
-<span class=" alert alert-info">
-	Unterstützt von <a href="https://www.labdoo.org/de/content/LabdooCH"><img src="labdoo-site-logo.png" /></a>
-</span>
+<span style="color:#00bcd4;">Unterstützt durch</span>
+<a href="https://www.labdoo.org/de/content/LabdooCH"><img style="height:1.5em;margin-bottom:0px;" src="labdoo-header.png" alt="labdoo.org" /></a>
+
 
 
