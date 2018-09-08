@@ -45,5 +45,8 @@ installiert:
 
 <img src="/rechnerparade.jpg" />
 
+Aber auf dem Rückweg von Oberwil-Lieli nach Seebach <a
+href="/posts/myterioese_begegnung/">ist mir ja etwas seltsames
+passiert.</a>
 
 
