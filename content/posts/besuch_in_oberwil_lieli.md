@@ -35,7 +35,7 @@ toll.
 
 Nebenbei bemerkt: Mein Kollege Canan, der normalerweise
 Hochleistungsrechner für Wissenschaftler zusammenbaut, hat auch noch
-mal drei Laptops (Acer Travelmate 4720) spendiert. Hier ist Canan in
+mal drei Laptops (Acer Travelmate 5720) spendiert. Hier ist Canan in
 seinem Auto:
 
 <img src="/canan.jpg" />
